@@ -19,7 +19,7 @@ title: Jeliclesu # the main title
 tagline: Today I Learned
 
 description: "공부하며 배운 내용을 매일 정리합니다."
- 
+
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://jelliclesu.github.io"
@@ -220,9 +220,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-collections:
-  til:
-    output: true
-    permalink: /til/:path/
-
